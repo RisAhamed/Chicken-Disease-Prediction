@@ -2,7 +2,7 @@ from src.CNN_Classifier import logger
 from src.CNN_Classifier.pipeline.data_ingestion_pipeline import DataIngestionTrainingPipeline
 
 
-STAGE_NAME  = "Data Ingestion Stage"
+STAGE_NAME  = "Data Ingestion Sta~ge"
 
 if __name__ == '__main__':
     try:
